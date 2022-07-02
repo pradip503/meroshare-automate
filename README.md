@@ -21,4 +21,4 @@ npm run start
 
 3. Whola! With all these things in place, IPO should be applied from all the accounts you provided. You can see in the log itself.
 
-Note: Haven't worked on validating the CSV file yet. Feel free to open a PR.
+<b>Note:</b> There are a whole lot of things to improve. Feel free to open a PR.
